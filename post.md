@@ -3,7 +3,7 @@
 
     The owner of this blog is Ye Eun Kim.
 
-[Link to Github](https://github.com/,"Github link")
+[Link to Github](https://github.com/, "Github link")
 
 - Categories 
    * Blog
