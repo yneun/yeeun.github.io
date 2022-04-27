@@ -5,7 +5,7 @@
 
 [Link to Github](https://github.com/, "Github link")
 
-<img src="//Users/kim-yneun/Downloads/Purple%20skies%20sunset.jpeg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="PurpleSky"></img>
+<img src="https://wallpaperstock.net/wallpapers/thumbs1/43514hd.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="PurpleSky"></img>
 
 
 - Categories 
