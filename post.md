@@ -1,10 +1,5 @@
-  <html>
-  <head>
-  
-  </head>
-  <body>
-    <h1> Github.io 블로그 첫 글 </h1>
-    <h3> Github.io 블로그의 첫 글을 작성해봅니다. </h3>
+# Github.io 블로그 첫 글
+## Github.io 블로그의 첫 글을 작성해봅니다.
     
 - Categories 
     * Blog
@@ -15,6 +10,3 @@
     * blog
     * self_study
     * idk
-    
-  </body>
-  </html>
