@@ -13,7 +13,6 @@ public void introduceCode(){
     System.out.println("The way to show raw code.");
 }
 ```
-<br>
 - Categories 
    * Blog
    * Correcting Notes
